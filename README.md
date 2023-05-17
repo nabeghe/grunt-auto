@@ -1,3 +1,5 @@
+> ✨ Support me: [wallet address](https://elatel.ir).
+
 # Grunt Auto
 > Grunt Auto Config Generator for Terser, Uglify, LESS & SASS.
 
