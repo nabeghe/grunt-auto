@@ -4,13 +4,13 @@
 Call the `ga` function to generate a default config for grunt tasks.
 Supports Terser, Uglify, LESS & SASS
 
-# Getting Started
+# 🫡 Getting Started
 **Prerequisites:** 
 * [Grunt](https://gruntjs.com/)
 * [Getting Started](https://gruntjs.com/getting-started)
 * [Gruntfile](https://gruntjs.com/sample-gruntfile)
 
-**Install:**
+**🚀 Install:**
 ```bash
 npm install grunt-auto --save-dev
 ```
@@ -206,3 +206,7 @@ module.exports = function (grunt) {
     })
 }
 ```
+
+## 📖 License
+
+Licensed under the MIT license, see [LICENSE.md](LICENSE.md) for details.

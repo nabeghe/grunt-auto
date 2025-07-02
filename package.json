@@ -1,27 +1,20 @@
 {
   "name": "grunt-auto",
-  "version": "0.2.0",
+  "title": "Grunt Auto",
   "description": "Grunt auto config generator for Less, Terser, Sass and Uglify.",
+  "keywords": ["css", "grunt", "js", "less", "sass", "terser", "ugilify"],
+  "version": "0.2.0",
   "main": "index.js",
-  "scripts": {
-    "test": "qunit"
-  },
-  "keywords": [
-    "css",
-    "grunt",
-    "js",
-    "less",
-    "sass",
-    "terser",
-    "ugilify"
-  ],
+  "homepage": "https://github.com/nabeghe/grunt-auto#readme",
+  "license": "MIT",
   "author": {
     "name": "Hadi Akbarzadeh",
     "email": "hadicoder@gmail.com",
     "url": "https://github.com/nabeghe/"
   },
-  "homepage": "https://github.com/nabeghe/grunt-auto#readme",
-  "license": "MIT",
+  "scripts": {
+    "test": "qunit"
+  },
   "devDependencies": {
     "grunt": "^1.4.0",
     "qunit": "^2.19.1"
